@@ -162,8 +162,8 @@
                         }
                     }
 
-                    //按钮部分
-                    /*var wraptr = document.createElement('tr');
+                //按钮部分，由于没什么用所以暂时不做了
+                /*var wraptr = document.createElement('tr');
                 var wraptd = document.createElement('td');
                 var calBtn = document.createElement('button');
 
